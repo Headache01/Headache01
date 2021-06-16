@@ -1,4 +1,4 @@
-# Merhaba 👋 this is İsmail
+# Hello 👋 this is İsmail
 [![github stats](https://github-readme-stats.vercel.app/api?username=Headache01&show_icons=true&include_all_commits=true&theme=tokyonight)](https://github.com/Headache01)
 
 ## How's life
